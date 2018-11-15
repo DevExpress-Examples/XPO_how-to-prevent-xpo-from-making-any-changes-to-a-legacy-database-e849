@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [AdventureWorksObjects.cs](./CS/AdventureWorksObjects.cs) (VB: [AdventureWorksObjects.vb](./VB/AdventureWorksObjects.vb))
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+* [ReadOnlyDataStore.cs](./CS/ReadOnlyDataStore.cs) (VB: [ReadOnlyDataStore.vb](./VB/ReadOnlyDataStore.vb))
+* [ReadOnlyObject.cs](./CS/ReadOnlyObject.cs) (VB: [ReadOnlyObject.vb](./VB/ReadOnlyObject.vb))
+<!-- default file list end -->
 # How to prevent XPO from making any changes to a legacy database
 
 
